@@ -9,4 +9,4 @@ def bubble_sort(lst: list) -> list:
         if not swapped:
             break
             
-    return ls
+    return
