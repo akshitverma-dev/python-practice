@@ -7,4 +7,3 @@ def selection_sort(array):
         if least_num_index != i:
             array[i] , array[least_num_index] = array[least_num_index], array[i]
     return array
-print(selection_sort([5,4,3,2,1]))
